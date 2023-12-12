@@ -5,3 +5,11 @@
 Датасет: https://www.kaggle.com/datasets/paultimothymooney/twitter-election-data-archives
 
 Датасет твитов общественного мнения и политики из Твиттера.
+
+# Лабораторная работа № 2 по дисциплине "Системы обработки больших данных"
+
+### 3 mod 4 == 3: Вариант 3:
+
+___Задача регрессии: GradientBoostingMachine___
+
+___Задача бинарной классификации: LogisticRegression___

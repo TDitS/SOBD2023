@@ -10,6 +10,6 @@
 
 ### Вариант 3:
 
-___Задача регрессии: GradientBoostingMachine___
+___Задача регрессии:___ GradientBoostingMachine
 
-___Задача бинарной классификации: LogisticRegression___
+___Задача бинарной классификации:___ LogisticRegression
